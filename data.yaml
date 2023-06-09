@@ -1,0 +1,6 @@
+train: /var/home/joao/projetos/waldo_yolo/train
+val: /var/home/joao/projetos/waldo_yolo/val
+
+nc: 1
+
+names: ["waldo"]
