@@ -49,3 +49,7 @@ O objetivo deste projeto é desenvolver um sistema que utilize uma rede de detec
 * Inclua informações sobre quaisquer dificuldades encontradas e como elas foram superadas.
 
 * Prepare uma apresentação demonstrando o sistema em ação.
+
+# Tutorial
+
+<https://www.youtube.com/watch?v=gRAyOPjQ9_s>
