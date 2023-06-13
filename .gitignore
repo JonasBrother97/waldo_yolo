@@ -1,6 +1,3 @@
 yoloenv
-fotos
-runs
-labels
-test
-train
+train/images
+val/images
