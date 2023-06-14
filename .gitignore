@@ -2,3 +2,4 @@ yoloenv
 train/images
 val/images
 test
+runs/detect/predict
