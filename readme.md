@@ -50,6 +50,7 @@ O objetivo deste projeto é desenvolver um sistema que utilize uma rede de detec
 
 * Prepare uma apresentação demonstrando o sistema em ação.
 
-## Tutorial
+## Links
 
 <https://www.youtube.com/watch?v=gRAyOPjQ9_s>
+<https://docs.ultralytics.com/modes/>
